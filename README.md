@@ -6,7 +6,7 @@ In the world of multimedia, the ability to convert video files into audio is a v
 
 In this project, we have developed a Video to Audio Converter using Python and the `moviepy.editor` library. This converter serves as a flexible solution for extracting audio tracks from video files and even converting video songs into audio files. Let's delve into the key features and functionalities of our Video to Audio Converter:
 
-## Key Features
+## Features
 
 1. Video to Audio Conversion:
    Our converter allows users to convert a wide range of video formats (e.g., MP4, AVI, MKV) into commonly used audio formats (e.g., MP3, WAV, OGG).
